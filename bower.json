@@ -1,0 +1,11 @@
+{
+  "name": "bootstrap-dantarion",
+  "homepage": "https://github.com/dantarion/bootstrap-dantarion",
+  "authors": [
+    "Eric Sheppard <dantarion@dantarion.com>"
+  ],
+  "description": "2016 theme for dantarion's apps",
+  "main": "",
+  "license": "MIT",
+  "private": true
+}
