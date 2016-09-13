@@ -1,0 +1,19 @@
+{
+  "name": "bootstrap-dantarion",
+  "version": "1.0.0",
+  "description": "Bootstrap Theme for @dantarion's projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dantarion/bootstrap-dantarion.git"
+  },
+  "author": "Eric \"dantarion\" Sheppard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dantarion/bootstrap-dantarion/issues"
+  },
+  "homepage": "https://github.com/dantarion/bootstrap-dantarion#readme"
+}
